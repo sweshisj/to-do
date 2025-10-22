@@ -17,9 +17,10 @@ Simple TODO list: view, add, delete.
 cd backend/Todo.Api
 dotnet restore
 dotnet run
-
+```
 ### Frontend
 ```bash
 cd frontend/todo-app
 npm install
 npm start
+```
